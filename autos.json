@@ -42,5 +42,16 @@
         "anio" : 2019,
         "patente" : "JLK117",
         "vendido" : false
+    },
+    {
+        "marca" : "Toyota",
+        "modelo" : "Yaris",
+        "precio" : 850000,
+        "km" : 150,
+        "color" : "rojo",
+        "cuotas" : 24,
+        "anio" : 2019,
+        "patente" : "HLK217",
+        "vendido" : false
     }
 ]
